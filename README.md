@@ -1,0 +1,2 @@
+# Regularized-regression-with-R
+Regularized regression is a type of regression where the coefficient estimates are constrained to zero. Here I used two most popular regularised method on linear regression; Ridge and LASSO. After choosing the best lambda for the best model, I evaluate the model performance on test data with RMSE, MAE, and MAPE. You can read the interpretation on every steps. The purpose of regularized is to reduce model variance, and prevent overfitting.
